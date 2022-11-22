@@ -1,5 +1,3 @@
-"""Foobar.py: Description of what foobar does."""
-
 __author__      = "Nathan H. Bond"
 
 import numpy as np
